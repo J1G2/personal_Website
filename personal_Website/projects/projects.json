@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ANTI SLEEP ALARM ",
+    "desc": "The ANTI SLEEP ALARM is a safety device designed to help prevent drowsy driving and potential accidents caused by driver fatigue.",
+    "image": "pngwing.com",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1SjaLEfQkcWfqujFKwsmfS_TYW99eASG-?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1SjaLEfQkcWfqujFKwsmfS_TYW99eASG-?usp=sharing"
+    }
+  },
+  {
+    "name": "Blender_ project",
+    "desc": "A Blender project is a creative endeavor that involves the use of Blender, a powerful and versatile 3D computer graphics software.",
+    "image": "blender",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1NPYJiZOn6liAUADQ0FNh9d7Hbub2d8OF?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1NPYJiZOn6liAUADQ0FNh9d7Hbub2d8OF?usp=sharing"
+    }
+  },
+  {
+    "name": "Learnig Management System",
+    "desc": "A Learning Management System (LMS) is a software application or online platform designed to facilitate the management, delivery, tracking, and reporting of educational courses, training programs, and learning content. ",
+    "image": "lms",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1n0MzNVYT_ROnZuiuGQnLDMdzeXt91Mf5?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1n0MzNVYT_ROnZuiuGQnLDMdzeXt91Mf5?usp=sharing"
+    }
+  },
+  {
+    "name": "Food Ordering System",
+    "desc": "A food ordering system is a digital platform or software application that allows customers to browse, select, and order food items from restaurants or food establishments.t.",
+    "image": "food",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1g5LVhNc7-ihRzc2rpNH5mIExBDYSEPpt?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1g5LVhNc7-ihRzc2rpNH5mIExBDYSEPpt?usp=sharing"
+    }
+  },
+  {
+    "name": "Boom Barrier",
+    "desc": "A boom barrier, also known as a security barrier or gate, is a physical obstruction designed to control vehicle access to a particular area.",
+    "image": "boom",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/14NBiQhlVElEoCmepiQtmkioV4Bqdr5NY?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/14NBiQhlVElEoCmepiQtmkioV4Bqdr5NY?usp=sharing"
+    }
+  },
+  {
+    "name": "Online_ Grocery _Website",
+    "desc": "An online grocery website is a digital platform that allows customers to conveniently purchase groceries and other household products online. ",
+    "image": "groco",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1O7DB8KICnzur94iAF0Ycp6NofzAyG76x?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1O7DB8KICnzur94iAF0Ycp6NofzAyG76x?usp=sharing"
+    }
+  },
+  {
+    "name": "Simple_Food_Ordering_website_using html _ css",
+    "desc": "It is a basic and static web page that allows users to view a menu, select food items, and place orders online. ",
+    "image": "order",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1lhClfJPRJb-hpZwBc_QjmqjGst9sVGnN?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1lhClfJPRJb-hpZwBc_QjmqjGst9sVGnN?usp=sharing"
+    }
+  },
+  {
+    "name": "Simple_Gym_Website_using html _ css",
+    "desc": "A simple gym website using HTML and CSS is a static web page that provides basic information about a gym or fitness center. ",
+    "image": "gym",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1Zb0WtZQSB21TPCXvJIvUI_krSLKoZKba?usp=drive_link",
+      "code": "https://drive.google.com/drive/folders/1Zb0WtZQSB21TPCXvJIvUI_krSLKoZKba?usp=drive_link"
+    }
+  },
+  {
+    "name": "Travel Website",
+    "desc": "A travel website is an online platform that provides information, resources, and tools to assist travelers in planning their trips, exploring destinations, and making travel arrangements.",
+    "image": "travel",
+    "category": "lamp",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1-jW-n649GovTqLIKazqDprkCYRYTfaHh?usp=drive_link",
+      "code": "https://drive.google.com/drive/folders/1-jW-n649GovTqLIKazqDprkCYRYTfaHh?usp=drive_link"
+    }
+  }
+]
